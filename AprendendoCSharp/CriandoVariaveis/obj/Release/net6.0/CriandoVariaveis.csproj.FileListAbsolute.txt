@@ -1,0 +1,14 @@
+C:\AluraDaniel\Aula1\AprendendoCSharp\CriandoVariaveis\bin\Release\net6.0\CriandoVariaveis.exe
+C:\AluraDaniel\Aula1\AprendendoCSharp\CriandoVariaveis\bin\Release\net6.0\CriandoVariaveis.deps.json
+C:\AluraDaniel\Aula1\AprendendoCSharp\CriandoVariaveis\bin\Release\net6.0\CriandoVariaveis.runtimeconfig.json
+C:\AluraDaniel\Aula1\AprendendoCSharp\CriandoVariaveis\bin\Release\net6.0\CriandoVariaveis.dll
+C:\AluraDaniel\Aula1\AprendendoCSharp\CriandoVariaveis\bin\Release\net6.0\ref\CriandoVariaveis.dll
+C:\AluraDaniel\Aula1\AprendendoCSharp\CriandoVariaveis\bin\Release\net6.0\CriandoVariaveis.pdb
+C:\AluraDaniel\Aula1\AprendendoCSharp\CriandoVariaveis\obj\Release\net6.0\CriandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\AluraDaniel\Aula1\AprendendoCSharp\CriandoVariaveis\obj\Release\net6.0\CriandoVariaveis.AssemblyInfoInputs.cache
+C:\AluraDaniel\Aula1\AprendendoCSharp\CriandoVariaveis\obj\Release\net6.0\CriandoVariaveis.AssemblyInfo.cs
+C:\AluraDaniel\Aula1\AprendendoCSharp\CriandoVariaveis\obj\Release\net6.0\CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\AluraDaniel\Aula1\AprendendoCSharp\CriandoVariaveis\obj\Release\net6.0\CriandoVariaveis.dll
+C:\AluraDaniel\Aula1\AprendendoCSharp\CriandoVariaveis\obj\Release\net6.0\ref\CriandoVariaveis.dll
+C:\AluraDaniel\Aula1\AprendendoCSharp\CriandoVariaveis\obj\Release\net6.0\CriandoVariaveis.pdb
+C:\AluraDaniel\Aula1\AprendendoCSharp\CriandoVariaveis\obj\Release\net6.0\CriandoVariaveis.genruntimeconfig.cache
